@@ -237,7 +237,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(file:///Users/user/Sites/images/Images/Images/1.jpg);
+    background-image: url("../img/portfolio/IMG_2876.JPG");
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
